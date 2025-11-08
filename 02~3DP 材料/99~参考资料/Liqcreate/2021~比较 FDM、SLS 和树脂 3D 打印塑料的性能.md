@@ -53,7 +53,7 @@ FDM 被广泛使用，并与一系列热塑性长丝兼容。PLA 和 ABS 是最�
 
 与 PLA Filament 或其他热塑性材料相比，三维打印树脂使用不同的构件和化学成分，因此很难找到一种可以直接替换的材料。不过，树脂的某些特性是可以模仿的。请看下面与 Farnell 从 Ultimaker 材料中获得的数据的比较。我们选择了 NatureWorks Ingeo 生物聚合物 3052D（PLA Filament）作为注塑 PLA Filament 的参考。
 
-![Comparing properties of 3D-printed PLA to photopolymer resins.](https://assets.ng-tech.icu/item/20240211232929.png)
+![Comparing properties of 3D-printed PLA to photopolymer resins.](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/20240211232929.png)
 
 从上表中可以看出，3D 打印 PLA Filament 的许多特性都可以用树脂来模拟。
 
@@ -61,7 +61,7 @@ FDM 被广泛使用，并与一系列热塑性长丝兼容。PLA 和 ABS 是最�
 
 与上表类似，将 3D 打印 ABS 长丝的特性与同类树脂进行比较。巴斯夫 Forward AM Ultrafuse ABS 长丝与 ABS（注塑）和 Liqcreate 3D 打印树脂的比较。很难进行很好的比较，因为注塑成型的 ABS 有 100 多个等级，而且热塑性塑料的冲击强度通常以 kJ/m 2 为单位，而树脂则以 J/m 为单位。
 
-![Comparing properties of 3D-printed ABS to photopolymer resins.](https://assets.ng-tech.icu/item/20240211233101.png)
+![Comparing properties of 3D-printed ABS to photopolymer resins.](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/20240211233101.png)
 
 从上表中可以看出，3D 打印 ABS 的许多特性都可以用树脂模拟。值得注意的是，与树脂相比，ABS 的冲击强度仍然要高得多。
 
@@ -69,7 +69,7 @@ FDM 被广泛使用，并与一系列热塑性长丝兼容。PLA 和 ABS 是最�
 
 用于 3D 打印 SLS 零件的主要热塑性粉末是尼龙 11 (PA11) 和尼龙 12 (PA12)。将 Formlabs 的 SLS 3D 打印 PA 12 与注塑成型 PA12 ( GRILAMID L 25 NATURAL 6112) 及其对应树脂的性能进行比较。
 
-![比较 3D 打印 PA12 与光聚合物树脂的特性](https://assets.ng-tech.icu/item/20240211233149.png)
+![比较 3D 打印 PA12 与光聚合物树脂的特性](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/20240211233149.png)
 
 如上表所示，Liqcreate Clear Impact 树脂几乎可以模拟 3D 打印 PA12 的所有机械性能。需要再次指出的是，与 SLS 3D 打印 PA12 粉末或树脂相比，注塑 PA12 的冲击强度要高得多。Sculpteo 在这篇文章中详细研究了注塑 PA12 和 SLS 3D 打印 PA12 之间的差异。他们发现："下图比较了 SLS 制造的 PA12 和注塑成型制造的部件的拉伸性能。代表在 X 方向打印的样品的数据用红色表示，在 Z 方向打印的样品用绿色表示，注塑成型的样品用蓝色表示"。
 

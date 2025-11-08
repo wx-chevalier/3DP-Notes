@@ -1,6 +1,6 @@
 # 3D 打印成型工艺
 
-![3D Hub 3D 打印工艺](https://assets.ng-tech.icu/item/20231129141901.png)
+![3D Hub 3D 打印工艺](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/20231129141901.png)
 
 按照材料形式与工艺实现方法，可将打印机工艺分为如下五大类：
 
